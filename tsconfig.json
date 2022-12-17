@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "types": ["@types/jest", "jest-playwright-preset"]
+    },
+    "include": ["**/*"]
+}

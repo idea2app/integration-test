@@ -1,0 +1,6 @@
+[submodule "browser"]
+	path = browser
+	url = https://github.com/idea2app/Next-Bootstrap-TS.git
+[submodule "server"]
+	path = server
+	url = https://github.com/idea2app/REST-Node-ts.git
